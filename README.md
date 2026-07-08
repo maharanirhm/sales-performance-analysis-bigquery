@@ -77,3 +77,13 @@ This project analyzes sales transaction data using **Google BigQuery SQL** to an
 - **22 products** contributed approximately **80%** of total completed revenue, illustrating the Pareto Principle.
 - **Customer_3** showed the highest purchase frequency with an average interval of **9.93 days** between purchases.
 - **Panci Stainless 20 cm** had the highest refund rate (**8.29%**) with a potential revenue recovery of approximately **Rp2.64 million** if the refund rate were reduced to 5%.
+
+## 📷 Query Results
+
+### Top 5 Products by Units Sold
+
+![Top Products](images/top-products-result.png)
+
+### Refund Rate Analysis
+
+![Refund Analysis](images/refund-rate-analysis.png)
